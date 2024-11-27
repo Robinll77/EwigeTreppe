@@ -1,0 +1,1 @@
+Juhu! Ein ReadMe für meine erstes GitHubVersuche
