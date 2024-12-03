@@ -2946,7 +2946,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rigidbody: {fileID: 1857382816}
   kamera: {fileID: 963194229}
-  geschwindigkeit: 0.00001
+  geschwindigkeit: 0.5
   sprungkraft: 3
   sprungstatus: 0
 --- !u!1 &1887756291
